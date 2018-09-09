@@ -21,8 +21,8 @@ The python code:
 The parking stages:
 
 ![image1]
-![image2]
 ![image3]
+![image2]
 
 ---
 
