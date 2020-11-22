@@ -18,6 +18,8 @@ Each folder contains all the files for each project submission written in mostly
 
 ## How to run
 
-This repo contains mainly Python which can be run after 
+This repo contains mainly Python which can be run after installing Python:
+
+`https://www.python.org/downloads/`
 
 ---
